@@ -1,7 +1,12 @@
 ## Hi, I'm Yoontae Kim 👋
 
-Graduate researcher at the [Intelligence Networking Lab](http://www.cbchae.org/), **Yonsei University** (advisor: Prof. Chan-Byoung Chae).
+Ph.D. researcher at the [Intelligence Networking Lab](http://www.cbchae.org/), **Yonsei University** (advisor: Prof. Chan-Byoung Chae).
 I work on **6G wireless communication systems**, with a focus on hardware-aware, measurement-driven design.
+
+### 🎓 Education & Experience
+- **Ph.D. Researcher**, Electrical & Electronic Engineering, Yonsei University (Mar. 2022 – present)
+- **B.S.**, Electrical & Electronic Engineering, Yonsei University (Feb. 2022)
+- IEEE Student Member (2022 – present)
 
 ### 🔬 Research Interests
 - **Fluid Antenna Systems (FAS)**: pixel-based reconfigurable antennas (PRA-FAS), port selection, channel estimation under sparse channels
