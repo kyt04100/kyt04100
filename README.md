@@ -14,3 +14,4 @@ I work on **6G wireless communication systems**, with a focus on hardware-aware,
 ### 🔗 Links
 [![Website](https://img.shields.io/badge/Website-kyt04100.github.io-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://kyt04100.github.io)
 [![Email](https://img.shields.io/badge/Email-kyt0410%40yonsei.ac.kr-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kyt0410@yonsei.ac.kr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kyt0410-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyt0410/)
